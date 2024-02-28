@@ -22,7 +22,7 @@ This is a simple To-do List web application built using HTML, CSS, and JavaScrip
 The application uses local storage to persist tasks even after refreshing the page. Tasks are stored in a JSON format.
 
 ## Libraries and Dependencies
-[FontAwesome](https://fontawesome.com/)
+[FontAwesome](https://fontawesome.com/)-  Icons are used for edit and delete actions.
 
 ## Author
 Aditya Ranjan
