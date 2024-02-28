@@ -17,3 +17,15 @@ This is a simple To-do List web application built using HTML, CSS, and JavaScrip
 2. Enter tasks in the input field and press 'Enter' or click 'Enter' to add them to the to-do list.
 3. Click the edit icon to edit a task, and the delete icon to delete a task.
 4. Click 'Save' to save changes made during editing or 'Cancel' to discard changes.
+
+## Local Storage
+The application uses local storage to persist tasks even after refreshing the page. Tasks are stored in a JSON format.
+
+## Libraries and Dependencies
+[FontAwesome](https://fontawesome.com/)
+
+## Author
+Aditya Ranjan
+Kaushik Shaw
+Dev Goyal
+Rishi Ranjan
