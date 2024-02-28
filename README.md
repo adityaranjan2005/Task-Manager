@@ -11,3 +11,9 @@ This is a simple To-do List web application built using HTML, CSS, and JavaScrip
 -> **Delete a Task**: Click the delete icon (checkmark) next to a task to remove it from the to-do list.
 
 -> **Date Display**: The application displays the current date at the top.
+
+## Usage
+1. Open the **index.html** file in a web browser.
+2. Enter tasks in the input field and press 'Enter' or click 'Enter' to add them to the to-do list.
+3. Click the edit icon to edit a task, and the delete icon to delete a task.
+4. Click 'Save' to save changes made during editing or 'Cancel' to discard changes.
