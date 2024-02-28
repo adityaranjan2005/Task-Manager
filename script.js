@@ -96,13 +96,5 @@ function deleteItem(i){
   location.reload()
 }
 
-function updateItem(text, i){
-  itemsArray[i] = text
-  localStorage.setItem('items', JSON.stringify(itemsArray))
-  location.reload()
-}
 
-window.onload = function() {
-  displayDate()
-  displayItems()
-};
+
