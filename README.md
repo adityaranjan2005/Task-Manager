@@ -26,6 +26,3 @@ The application uses local storage to persist tasks even after refreshing the pa
 
 ## Author
 Aditya Ranjan
-Kaushik Shaw
-Dev Goyal
-Rishi Ranjan
